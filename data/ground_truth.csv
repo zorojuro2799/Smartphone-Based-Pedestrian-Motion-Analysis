@@ -1,0 +1,10 @@
+dataset,ground_truth_steps,speed,position
+slow_hand,60,slow,hand
+normal_hand,74,normal,hand
+fast_hand,83,fast,hand
+slow_pocket,62,slow,pocket
+normal_pocket,72,normal,pocket
+fast_pocket,79,fast,pocket
+slow_arm,59,slow,arm
+normal_arm,74,normal,arm
+fast_arm,84,fast,arm
