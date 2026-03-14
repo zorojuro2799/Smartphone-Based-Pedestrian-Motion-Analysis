@@ -44,18 +44,12 @@ DSP_Project/
 
 ## Quick Start
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/DSP_Project.git
-cd DSP_Project
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the analysis
+### 2. Run the analysis
 ```bash
 python main.py
 ```
